@@ -1,0 +1,14 @@
+Plan polega na trzech rzeczach (robi się go zawsze w excelu albo innym programie ale na komputerze).
+1. Wpisujesz zapas gotówki który posiadasz w pierwszej komórce ( w lewym górnym rogu).
+2. Niżej wpisujesz dochód w danym miesiącu.
+3. Jeszcze niżej wpisujesz koszty w danym miesiąc
+
+Excel wylicza stan w kasie na koniec miesiąca i przenosi wyliczoną ilość pieniędzy na początek następnego miesiąca (jako ilość dostępnej gotówki w kasie), dalej postępując zgodnie z punktami 2 i 3 (bez pkt. 1) trzeba kontynuować wpisywanie aż uzupełnimy cały rok. Dzięki temu wiemy czy w danym miesiącu zamykamy się z budżetem czy nie.
+
+Pomysł polega na tym żeby tworzyć krótkie co najwyżej kilku wierszowe takie plany w których obliczamy raty za zobowiązania (długi) i wierzytelności (pożyczone komuś pieniądze na procent), które pokazują ile będzie dostępne pieniędzy w danym miesiącu i czy przypadkiem nasi użytkownicy nie zadławią się z budżetem tzn. czy nie zabraknie im gotówki.
+
+Wymyśliłem to tak że po lewej w pierwszej kolumnie będą dodawane tytuły wierszy, a następnie w każdym wierszu program będzie wpisywał zobowiązania i wpływy z inwestycji i wziętych kredytów. Użytkownik będzie uzupełniał samemu dane o kredycie (dodamy artykuł o tym jak to szybko zrobić), a nasza strona będzie jemu wyliczała jak wygląda jego budżet z inwestycji.
+
+Na początek będzie kilkunastu do kilkudziesięciu użytkowników najczęściej spośród naszych znajomych/rodziny. Możemy się nawet tak umówić że ty będziesz wymyślać procesy biznesowe a ja je będę programował, tzn. ty napiszesz na kartce procedurę (np. matematyczny sposób rozwiązania zadania z matematyki finansowej krok po kroku, a ja o zaprogramuję wg, twoich wskazań). Oczywiście nasza praca będzie naszą wspólną pracą, dlatego właśnie chciałem żebyś publikowała tutaj na stronie żeby w razie czego było jasne kto ile czego dołożyć (chociaż mniej więcej).
+
+Namaluj prosze w programie graficznym jak będzie wyglądała nasza strona a następnie ja ją potnę na mniejsze kawałki i powklejam na stronę - to się nazywa layout, przygotowywanie layoutu. Przydałoby się żebyś namalowała guziki (przyciski / buttony) widoczne na stronie i ich wersję jak wyglądają wciśnięte. Tytuł strony to alokacja.pl - ja już mam tą domenę dla nas i ogólnie ruszamy. Postawmy najpierw ten layout i dodamy trochę treści, żeby już coś wyglądało na robione, następny w kolejce będzie banner, czyli namalowanie dużego widocznego loga naszej strony (tak jak wyglądają marki firm, np. Coca-Cola (biały napis na czerwonym tle) , PkoBP (symbol żubra i tekst na granatowym tle).

@@ -1,0 +1,34 @@
+Strona podzielona na trzy/cztery sekcje:
+O Nas
+Lokaty
+Kredyty
+Konta.
+
+1. O Nas: 
+opis naszej idei...
+
+2.Lokaty: 
+Użytkownik wpisuje- czas trwania lokaty, który go interesuje; kwota lokaty; wybiera bank i produkt (obecny)*, 
+Komputer liczy: zysk z lokaty; podatek.
+Wyjście--> Tabelka z uporządkowanymi malejąco według zysku lokatami( podświetlone*). 
+Kliknięcie na interesującą uzytkownika pozycję (wiersz tabeli) skutkuje przedstawieniem mu wykresu zależności zysku od czasu. 
+Kolumny tabeli: |nazwa banku i kredytu| |oprocentowanie| |Zysk z lokaty|
+
+3.Kredyty:
+Użytkownik wpisuje- Kwotę kredytu i czas trwania, wybiera bank i produkt*. 
+Wyjście---> Tabela z uporządkowanymi kredytami od najtańszych do najdroższych.(podświetlone *)
+Kolumny tabeli: |nazwa banku i kredytu| |oprocentowanie| |RRSO| |Koszt kredytu| 
+
+4.Konta: Na wejściu uzytkownik wybiera konto i bank (obecny), o ile taki występuje z panelu( +wiek< 26 r.ż.| miesięczny stały dochód| 
+|ilość operacji kartą w miesiącu| |ilość pieniedzy na koncie|)----> Ukazanie zestawienia ile zyskuje/traci na swoim 
+koncie w porównaniu z innymi kontami (tabela + podświetlenie obecnego konta/banku)
+Użytkownik nieposiadający żadnego konta po wypełnieniu panelu (wiek< 26 r.ż.| miesięczny stały dochód|  |ilość planowanych operacji
+kartą w miesiącu| |ilość pieniedzy na koncie|)-----. ukazanie zestawienia kont od najbardziej opłacalnego. 
+(|nazwa banku i konta| |opłaty za prowadzenie konta| |opłaty za przelewy| |oprocentowanie konta|)
+
+5. Twoje inwestycje:
+Ukazanie (zapamiętanych) decyzji użytkownikaw formie budżetu przepływu pieniędzy. Weksle.
+
+6.Tabela ofert (tworzona przez i dla użytkowników).
+
+
